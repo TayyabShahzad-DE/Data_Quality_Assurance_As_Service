@@ -96,10 +96,6 @@ Through this project, I strengthened my understanding of data quality management
 
 **Muhammad Tayyab Shahzad**
 
-<p align="center">
-  <img src="images/github-logo.png" alt="Tayyab Shahzad - Data Engineer Logo" width="500">
-</p>
-
-[GitHub Profile](https://github.com/TayyabShahzad-DE)
+[Tayyab Shahzad Github Profile](https://github.com/TayyabShahzad-DE)
 
 *Built as a Final Year Project to explore automated data quality assessment, data cleaning, and reliable data processing.*
