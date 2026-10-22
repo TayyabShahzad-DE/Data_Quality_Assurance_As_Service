@@ -1,4 +1,4 @@
-# 🧹 Data Quality-as-a-Service (DQaaS)
+# 🧹 Data Quality-Assurance-As-Service (DQAAS)
 
 An automated data quality platform designed to validate, profile, and clean datasets before they are used for analysis, reporting, or machine learning. The platform supports multiple data formats, detects data quality issues, identifies anomalies, and provides configurable cleaning rules to improve data reliability.
 
