@@ -92,6 +92,7 @@ Through this project, I strengthened my understanding of data quality management
 - Add interactive dashboards for monitoring data quality.
 - Integrate the platform with cloud data warehouses.
 ## Interface and Working
+#login page
 ![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/loginpage.png?raw=true)
 ![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/dashboard%20overview.png?raw=true)
 ![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/uploaddataset.png?raw=true)
