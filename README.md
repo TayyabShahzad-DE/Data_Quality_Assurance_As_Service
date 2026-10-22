@@ -91,6 +91,9 @@ Through this project, I strengthened my understanding of data quality management
 - Implement scheduled data quality checks.
 - Add interactive dashboards for monitoring data quality.
 - Integrate the platform with cloud data warehouses.
+## Interface and Working
+https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/e5e248087379cdee9d0de8928b6d910b76c5bed3/extras/images/all_images/loginpage.png
+
 
 ## 👨‍💻 Author
 
