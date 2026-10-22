@@ -92,9 +92,16 @@ Through this project, I strengthened my understanding of data quality management
 - Add interactive dashboards for monitoring data quality.
 - Integrate the platform with cloud data warehouses.
 ## Interface and Working
-https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/e5e248087379cdee9d0de8928b6d910b76c5bed3/extras/images/all_images/loginpage.png
 ![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/loginpage.png?raw=true)
-https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/loginpage.png?raw=true
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/dashboard%20overview.png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/uploaddataset.png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/profiling.png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/data%20issues.png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/cleanig..png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/cleaning...png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/report%20section.png?raw=true)
+![image alt](https://github.com/TayyabShahzad-DE/Data_Quality_Assurance_As_Service/blob/master/extras/images/all_images/report.png?raw=true)
+
 ## 👨‍💻 Author
 
 **Muhammad Tayyab Shahzad**
